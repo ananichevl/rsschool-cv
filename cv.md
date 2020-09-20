@@ -4,7 +4,7 @@
 * Email: ananichev@phystech.edu
 * Telegram/instagram: @ananichevl
 ## Summary
-Java developer in Sberbank 
+Java developer in Sberbank   
 Agile evangelist working as a Scrum master, trying to make Sberbank more product oriented. 
 ## Skills
 Java, Kotlin, Ansible, Javascript
@@ -27,5 +27,5 @@ Several projects for Corporate Customers: Selfemployed salaries in SBBOL, Sbercl
 * 2012 - 2018 MIPT Magister in Physics and Mathematics
 * 2019 - Kotlin for Java Developers
 ## English
-English - advanced
+English - advanced  
 More than 10 years of studying, experience only in travels. 
